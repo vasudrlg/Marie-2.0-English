@@ -18,24 +18,23 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hi {}, My name is *{}* 🍿! If you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Im a group manager bot maintained by  [This person](tg://user?id={}).
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Iam Specialised In Maintaining- [Explore Moviez](https://t.me/mrvasuz) Group.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+Lets Get Started! Jion Our Movies Group!✨👆
 
-For more commands click /help...
+For more Commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**Meet The Developer👨‍💻 Who Developed Me [Mr.Vasu](https://t.me/mrvasuz).**
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! My Name iz Dr.Shashi I Probably Help Admins How To use me.
 
 *Main* available commands:
  - /start: Start the bot...
